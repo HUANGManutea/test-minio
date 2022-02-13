@@ -1,0 +1,4 @@
+Minio:
+  Endpoint: "172.24.249.198:9000"
+  AccessKeyID: "minioadmin"
+  SecretAccessKey: "minioadmin"

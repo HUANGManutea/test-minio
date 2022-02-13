@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  app1: # Service 1
+    image: test-minio-server # server 1323
+    ports:
+      - 1323:1323
+    container_name: 'app1'
+  
+  app2: # Service 2
+    image: test-minio-server # server 1324
+    ports:
+      - 1324:1323
+    container_name: 'app2'
