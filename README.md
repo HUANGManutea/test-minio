@@ -11,7 +11,7 @@ L'interface web se trouve ici: http://127.0.0.1:9001
 
 # DEV
 
-Dame config.yaml, changer "Endpoint" par : ip:port
+Dans config.yaml, changer "Endpoint" par : ip:port
 
 Terminal 2
 ```
